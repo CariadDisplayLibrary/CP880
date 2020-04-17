@@ -1,2 +1,2 @@
-CP880.cpp libraries/DisplayCore/CP880
-CP880.h libraries/DisplayCore/CP880
+src libraries/DisplayCore/CP880
+library.properties libraries/DisplayCore/CP880
