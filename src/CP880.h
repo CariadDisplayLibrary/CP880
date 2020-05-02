@@ -1,7 +1,7 @@
 #ifndef _CP880_H
 #define _CP880_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t CP880[];
